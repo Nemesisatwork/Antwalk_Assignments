@@ -1,0 +1,6 @@
+Hello is in English
+Namaste is in Hindi
+Nomoshkar is in Bengali
+Nomoskar is in Assamese
+Konichiwa is in Japanese
+
